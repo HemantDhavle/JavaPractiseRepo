@@ -14,7 +14,7 @@ public class ReverseString
 			temp = ch+temp;
 			System.out.println(temp);
 		}
-		System.out.println(temp);
+		System.out.println(temp+"name");
 	}
 
 }
